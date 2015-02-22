@@ -1,7 +1,7 @@
 ctlc-docker-ambassador
 ======================
 
-Note: Inspired by svendowideit/ambassador, but it is not a Trusted Image and uses top to keep-alive which uses too much CPU. This version uses watch ls instead and is a Trusted Image.
+Fork of ctlc-docker-ambassador, moving it to the latest ubuntu
 
 *Ambassador Pattern Linking*
 

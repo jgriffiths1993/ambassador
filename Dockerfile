@@ -1,5 +1,5 @@
-FROM ubuntu:precise
-MAINTAINER	lucas@rufy.com
+FROM ubuntu:latest
+MAINTAINER	Joshua Griffiths <jgriffiths.1993@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
