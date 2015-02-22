@@ -1,5 +1,5 @@
-ctlc-docker-ambassador
-======================
+Ambassador
+==========
 
 Fork of ctlc-docker-ambassador, moving it to the latest ubuntu
 
